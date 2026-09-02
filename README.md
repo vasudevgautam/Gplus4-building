@@ -7,6 +7,22 @@
 **Location:** Guwahati, Assam, India
 
 ---
+## some snaps
+<img width="1277" height="760" alt="image" src="https://github.com/user-attachments/assets/dd94067b-e823-4f6d-b81d-7250b95dda97" />
+<img width="1631" height="780" alt="image" src="https://github.com/user-attachments/assets/9b14fa5a-bbd3-4c5d-b830-962beefb84d5" />
+<img width="1622" height="767" alt="image" src="https://github.com/user-attachments/assets/c835b2ca-8439-485b-bf5a-663d62f9a984" />
+<img width="892" height="762" alt="image" src="https://github.com/user-attachments/assets/3efbb049-3680-4740-ad62-f15ac4022f22" />
+<img width="1632" height="782" alt="image" src="https://github.com/user-attachments/assets/96c5b3a9-c27f-4d21-83a6-bacd923487ca" />
+<img width="1621" height="783" alt="image" src="https://github.com/user-attachments/assets/227a146d-c191-4951-ba2c-a444b0da3e7d" />
+<img width="1617" height="721" alt="image" src="https://github.com/user-attachments/assets/dde6711c-6c35-4032-9c41-23eb4a1db1af" />
+<img width="1630" height="793" alt="image" src="https://github.com/user-attachments/assets/88df9e0e-a059-4348-bc7f-4c28b86a808a" />
+
+
+
+
+
+
+
 
 ## 1. Project Overview
 
